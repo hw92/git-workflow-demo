@@ -1,6 +1,6 @@
 # Git Workflow Demo
 
-This repository is a simple demonstration of a basic Git workflow. It contains a single HTML page that says "Hello, World!".
+This repository is a simple demonstration of a basic Git workflow. It contains a single HTML page with navigation, a welcome message, and a footer.
 
 ## Getting Started
 Open `index.html` in your browser to view the page.
